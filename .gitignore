@@ -1,0 +1,27 @@
+# Node.js specific (backend/)
+backend/node_modules/
+backend/npm-debug.log
+backend/yarn-debug.log
+backend/yarn-error.log
+backend/.env
+backend/.eslintcache
+backend/.node_repl_history
+
+# Logs
+logs
+*.log
+
+# Flutter/Dart specific (frontend/)
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.build/
+frontend/pubspec.lock
+
+# macOS files
+.DS_Store
+
+# Build directories
+build/

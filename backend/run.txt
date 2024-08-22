@@ -1,0 +1,5 @@
+==> cd backend
+==> npm install
+==> npm start server 
+==> mongo db atlast , add db url and fatch database , 
+==> open postmen and listen on "http://localhost:5000/api"
